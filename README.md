@@ -21,7 +21,8 @@
 ---
 
 ### 💼 Projects
-### **📌 Social Media App — MERN Project**
+
+### **📌 VybE- Social Media App (MERN Project)**
 A full-stack social media platform built using the MERN stack, featuring:
 
 🔐 JWT Authentication for secure login & signup
