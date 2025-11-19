@@ -22,7 +22,7 @@
 
 ### 💼 Projects
 
----
+
 
 ### **📌 VybE- Social Media App (MERN Project)**
  A full-stack social media platform built using the MERN stack, featuring:
