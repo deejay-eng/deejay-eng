@@ -22,22 +22,24 @@
 
 ### 💼 Projects
 
-- ### **📌 VybE- Social Media App (MERN Project)**
-- A full-stack social media platform built using the MERN stack, featuring:
+---
 
-- 🔐 JWT Authentication for secure login & signup
+### **📌 VybE- Social Media App (MERN Project)**
+ A full-stack social media platform built using the MERN stack, featuring:
 
-- 👤 User profiles with profile/cover picture uploads via Cloudinary
+ 🔐 JWT Authentication for secure login & signup
 
-- 📝 Create, like, comment & share posts
+ 👤 User profiles with profile/cover picture uploads via Cloudinary
 
-- 🤝 Follow/Unfollow system with real-time UI updates
+ 📝 Create, like, comment & share posts
 
-- 📸 Media upload support (Cloudinary + Multer)
+ 🤝 Follow/Unfollow system with real-time UI updates
 
-- 🗄️ Robust REST API built with Express & MongoDB
+ 📸 Media upload support (Cloudinary + Multer)
 
-- 🚀 Deployed frontend & backend for real-world usability
+ 🗄️ Robust REST API built with Express & MongoDB
+
+ 🚀 Deployed frontend & backend for real-world usability
 
 [GitHub Repo](https://github.com/deejay-eng/SocialMediaApp-main)
 [Visit Website](https://social-media-app-main-git-main-djs-projects-5304a308.vercel.app/login)
