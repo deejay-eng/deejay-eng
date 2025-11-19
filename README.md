@@ -23,13 +23,21 @@
 ### 💼 Projects
 ### **📌 Social Media App — MERN Project**
 A full-stack social media platform built using the MERN stack, featuring:
+
 🔐 JWT Authentication for secure login & signup
+
 👤 User profiles with profile/cover picture uploads via Cloudinary
+
 📝 Create, like, comment & share posts
+
 🤝 Follow/Unfollow system with real-time UI updates
+
 📸 Media upload support (Cloudinary + Multer)
+
 🗄️ Robust REST API built with Express & MongoDB
+
 🚀 Deployed frontend & backend for real-world usability
+
 [GitHub Repo](https://github.com/deejay-eng/SocialMediaApp-main)
 [Visit Website](https://social-media-app-main-git-main-djs-projects-5304a308.vercel.app/login)
 
