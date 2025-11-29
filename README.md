@@ -72,7 +72,7 @@ A sleek personal portfolio showcasing my skills, projects, and resume.
 
 ---
 
-#### **🛍️ Shopify E-commerce Website**  
+#### **🛍️ FairyLoom- E-commerce Website**  
 An elegant online store built from scratch and optimized for user experience.  
 `Tools:` HTML, CSS, JavaScript, MySQL, Node.js  
 ✨ Features: Shopping Cart, Login/Auth, Payment Page, Order Confirmation  
