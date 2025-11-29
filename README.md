@@ -50,7 +50,7 @@
 #### **🧠 Brain Tumor Detection using Deep Learning**  
 A basic AI model trained on MRI scans to detect brain tumors.  
 `Tools:` Python, CNN, EfficientNet-B0, OpenCV, Colab  
-[GitHub Repo](https://github.com/kaanchiiii/Brain-Tumor-Detection-Model)
+[GitHub Repo](https://github.com/deejay-eng/Brain-Tumor-Detection-Model)
 
 ---
 
@@ -59,7 +59,7 @@ The EffimedHUB is a revolutionary healthcare management solution that combines w
 `Tools:` HTML, CSS, JavaScript, React, Python, Machine Learning, Data Visualization  
 
 [GitHub Repo](https://github.com/kaanchiiii/Healthcare.github.io)  
-[Visit Website](https://kaanchiiii.github.io/Healthcare.github.io/)
+[Visit Website](https://deejay-eng.github.io/Healthcare.github.io/)
 
 ---
 
@@ -68,7 +68,7 @@ A sleek personal portfolio showcasing my skills, projects, and resume.
 `Tools:` HTML, CSS, JavaScript  
 
 [GitHub Repo](https://github.com/kaanchiiii/Portfolio)  
-[Visit Website](https://kaanchiiii.github.io/Portfolio/)
+[Visit Website](https://deejay-eng.github.io/Portfolio/)
 
 ---
 
